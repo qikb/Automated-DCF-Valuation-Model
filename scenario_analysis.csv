@@ -1,0 +1,4 @@
+scenario,revenue_growth,fcf_margin,wacc,terminal_growth,enterprise_value,equity_value,implied_share_price,upside_vs_market
+Downside,0.04,0.2569,0.095,0.02,932358.0417,940762.0417,126.5486,-0.7043
+Base,0.09,0.278,0.09,0.03,1510523.4713,1518927.4713,204.3217,-0.5226
+Upside,0.12,0.2964,0.085,0.035,2162650.2085,2171054.2085,292.0439,-0.3177
